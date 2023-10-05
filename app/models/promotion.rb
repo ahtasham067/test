@@ -1,0 +1,3 @@
+class Promotion < DiscountPromotionCode
+    
+end
